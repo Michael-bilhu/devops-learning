@@ -1,1 +1,2 @@
 DevOps Journey Begins
+Linux + git + devops 
